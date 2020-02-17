@@ -3,6 +3,13 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  let arr = [
+    1,2,3,4,5,
+    1
+  ];
+
+  console.log(arr)
+
   return (
     <div className="App">
       <header className="App-header">
