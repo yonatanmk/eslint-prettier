@@ -3,12 +3,14 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  let arr = [
-    1,2,3,4,5,
-    1
-  ];
-
-  console.log(arr)
+  const arr = {
+    a: 1,
+    b: 1,
+    c: 1,
+    d: 1,
+    e: 1,
+    f: 1,
+  };
 
   return (
     <div className="App">
